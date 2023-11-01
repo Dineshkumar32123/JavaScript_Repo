@@ -1,0 +1,22 @@
+// !event delegation capturing,target,bubbling phases
+
+let gp = document.querySelector("#gp")
+let p = document.querySelector("#p")
+let c = document.querySelector("#c")
+
+// gp.addEventListener("click",(event)=>{
+//   console.log("grandparent clicked...");
+// })
+
+// p.addEventListener("click",(event)=>{
+//   console.log("parent clicked...");
+// })
+
+// c.addEventListener("click",(event)=>{
+//   console.log("child clicked...");
+// })
+
+// gp.addEventListener("click",(e)=>{
+//     e.
+// })
+
